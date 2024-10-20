@@ -58,7 +58,8 @@
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
     
 - LinkedIn (Hosted on Microsoft Azure)
-  - Logo: ![linkedin logo](https://github.com/user-attachments/assets/994049cc-f47b-4fe5-bab8-3fe52503e91a)
+  - Logo:
+    ![linkedin logo](https://github.com/user-attachments/assets/994049cc-f47b-4fe5-bab8-3fe52503e91a)
   - Details: It's the most popular site to check for internships and job oppurtunities and hiring from major companies from across the world.
 
 ***
