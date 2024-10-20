@@ -26,27 +26,35 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/4bfebc52-f7f6-43e7-9c73-7ef79fbe1c01)
+
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/04a26fc2-1c1f-4067-85e9-97fba5f2501a)
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/ad47c0e4-529c-4848-a08c-cd30e1e1d6af)
+
 
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/f61caaf5-7de4-4aed-bd2e-e631e1ebf0f8)
+> ![image](https://github.com/user-attachments/assets/7d81bee5-824e-40bb-a9ea-f6b5e6295d99)
+
+
 
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/3e93fe31-ec31-4153-8418-e90b4b5a4b2c)
+> > ![image](https://github.com/user-attachments/assets/1af45bef-86ae-4d70-8cd5-7b8574e8d043)
+
+
 
 ***
 
