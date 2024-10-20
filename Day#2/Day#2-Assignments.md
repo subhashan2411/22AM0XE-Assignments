@@ -40,7 +40,9 @@
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here! ![image](https://github.com/user-attachments/assets/0b9eece5-f11c-4994-ba4d-60a90ba98bb8)
+> Add your answer here! ![image](https://github.com/user-attachments/assets/0b9eece5-f11c-4994-ba4d-60a90ba98bb8)"The Illustrated Children’s Guide to Kubernetes" is a fun and colorful introduction to the world of Kubernetes, aimed at young readers. It uses charming illustrations and straightforward explanations to break down complex ideas like containers, orchestration, and scaling.
+
+The story features characters that represent different parts of Kubernetes, showing how they work together to manage applications effectively. Through engaging narratives and visuals, it highlights themes of teamwork and collaboration, making it easy for kids to grasp the importance of technology in today’s world. Overall, it’s a delightful way to introduce kids to the basics of cloud computing!
 
 
 ***
