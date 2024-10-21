@@ -60,11 +60,11 @@
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> https://github.com/A-R007/22AM0XE-Assignments/tree/73762222AL103/AbdulRahman
 
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> https://www.linkedin.com/in/abdul-rahman-mohammed-arshath-085b39267/
 
 ***
