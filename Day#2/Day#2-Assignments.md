@@ -56,7 +56,10 @@ In "Phippy Goes to the Zoo," Phippy is excited for a day of adventure. At the zo
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> Add your answer here!![image](https://github.com/user-attachments/assets/2da42d66-b152-41cb-aef3-cbd8ef4c4817)
+> ![Screenshot 2024-10-21 093529](https://github.com/user-attachments/assets/3479223d-b117-48ad-bf38-cb5693fdd24a)
+
+
 
 ***
 
