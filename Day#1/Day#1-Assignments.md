@@ -25,22 +25,22 @@
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > - Completion Badge - ![image](https://github.com/user-attachments/assets/f400c6c0-b350-4d56-bbea-e899226f3036)
-
 > - Completion Screenshot - ![image](https://github.com/user-attachments/assets/874f1c3a-24ee-4c52-8d8d-b91ad94dd3be)
 
 
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> Add your answer here!
+>![image](https://github.com/user-attachments/assets/72a8f8aa-4008-432f-9e7a-2d3706e19d8a)
+>![image](https://github.com/user-attachments/assets/d50ff0f1-a2fa-4983-82bf-ab7cbd5403c0)
+
 
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
-> Add your answer here!
-> - Create a new Google Colab notebook.
-> - Write Python code to print "Hello, World!" in the notebook.
-> - Import the NumPy library and create a 2x2 matrix, then print it.
+> - Create a new Google Colab notebook - ![image](https://github.com/user-attachments/assets/7bdf6370-904e-421d-b8eb-86cef904d9c0)
+> - Write Python code to print "Hello, World!" in the notebook - ![image](https://github.com/user-attachments/assets/e0dd815e-275a-4671-b9b9-a82f2a9c5c17) 
+> - Import the NumPy library and create a 2x2 matrix, then print it. - ![image](https://github.com/user-attachments/assets/fac01a8f-e899-4aae-8179-3ed40a7d5b9d)
 > - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
 
 ***
@@ -55,7 +55,7 @@
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> https://github.com/varuneshbit/22AM0XE-Assignments/edit/7376221CS345/varunesh-d/Day%231/Day%231-Assignments.md
 
 ***
 
