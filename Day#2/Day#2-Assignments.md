@@ -48,7 +48,8 @@ The story features characters that represent different parts of Kubernetes, show
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+> Add your answer here!![image](https://github.com/user-attachments/assets/7e1bc123-f1b7-45ca-903e-5550b07d1ed7)
+
 
 ***
 
