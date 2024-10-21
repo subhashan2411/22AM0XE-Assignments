@@ -27,6 +27,7 @@
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
 > ![assignment-1](https://github.com/user-attachments/assets/f54ddcf6-7e0c-46ba-9929-5c4eb944e982)
+> 
 
 
 ***
@@ -60,7 +61,9 @@
 ***
 
 #### #6 [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/0e4a6477-e99a-4dbe-b445-fbe9bd5f62a7)
+> ![image](https://github.com/user-attachments/assets/d5ae4a96-bfda-473c-9f01-13873dad0706)
+
 
 ***
 
