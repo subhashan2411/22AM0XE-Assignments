@@ -43,6 +43,8 @@
 > Add your answer here! ![image](https://github.com/user-attachments/assets/0b9eece5-f11c-4994-ba4d-60a90ba98bb8)"The Illustrated Children’s Guide to Kubernetes" is a fun and colorful introduction to the world of Kubernetes, aimed at young readers. It uses charming illustrations and straightforward explanations to break down complex ideas like containers, orchestration, and scaling.
 
 The story features characters that represent different parts of Kubernetes, showing how they work together to manage applications effectively. Through engaging narratives and visuals, it highlights themes of teamwork and collaboration, making it easy for kids to grasp the importance of technology in today’s world. Overall, it’s a delightful way to introduce kids to the basics of cloud computing!
+![image](https://github.com/user-attachments/assets/527623ec-7542-4955-890b-126220e8f90e)
+In "Phippy Goes to the Zoo," Phippy is excited for a day of adventure. At the zoo, Phippy sees all sorts of animals—from playful monkeys to lazy lions. Each visit to the exhibits is filled with fun and learning. Phippy discovers important lessons about wildlife conservation and the need to protect these amazing creatures. By the end of the day, Phippy leaves the zoo inspired to help care for the animals and the environment.
 
 
 ***
