@@ -54,21 +54,21 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+- Twitter(X) - (Hosted on AWS and GCP - Google Cloud Platform)
+  - Logo: ![image](https://github.com/user-attachments/assets/7c923137-7848-4272-89b9-41836b635acd)
 
-> Add your answer here!
+  - Details: A popular social media platform
 
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> https://github.com/varuneshbit/22AM0XE-Assignments/edit/7376221CS345/varunesh-d/Day%231/Day%231-Assignments.md
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/06360110-4aa0-4b92-aedb-286db6c72351)
+> www.linkedin.com/in/varunesh-d-626b55259
+
 
 ***
