@@ -82,6 +82,8 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> 
+> https://www.linkedin.com/posts/varunesh-d-626b55259_i-just-wrapped-up-an-incredibly-insightful-activity-7254540864356524032-lLYd?utm_source=share&utm_medium=member_desktop
+> ![image](https://github.com/user-attachments/assets/270f5376-09ff-40f0-a5e8-13d0ecfcc110)
+
 
 ***
