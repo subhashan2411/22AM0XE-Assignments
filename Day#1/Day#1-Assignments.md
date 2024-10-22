@@ -53,7 +53,7 @@
 - X(Twitter) (Hosted on AWS (partially) and Google Cloud Platform (GCP) )
   - Logo: ![image](https://github.com/user-attachments/assets/3af175c1-4210-4019-bf6c-7242ad80fa7e)
 
-  - Details: A popular social media platform
+  - Details:  X (formerly known as Twitter) is a prominent social media platform where users post short-form content known as "tweets," consisting of text, images, videos, and links. It allows real-time communication, trending discussions, and interaction through retweets, likes, and replies.
 
 ***
 
