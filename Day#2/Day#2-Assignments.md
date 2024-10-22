@@ -73,7 +73,7 @@
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> https://github.com/A-R007/22AM0XE-Assignments/wiki/Preview_of_One_Credit_7376222AL103
 
 ***
 
