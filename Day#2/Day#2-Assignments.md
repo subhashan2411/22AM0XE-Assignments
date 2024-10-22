@@ -78,6 +78,6 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> https://www.linkedin.com/posts/abdul-rahman-mohammed-arshath-085b39267_machinelearning-cloudservices-docker-activity-7254509832232185856-uHb0?utm_source=share&utm_medium=member_desktop
 
 ***
