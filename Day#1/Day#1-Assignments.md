@@ -29,48 +29,33 @@
 
 > - Completion Badge![image](https://github.com/user-attachments/assets/6287bdae-4859-4705-b115-26762984e045)
 
-> - Completion Screenshot	![image](https://github.com/user-attachments/assets/91b324b7-0578-4c7d-b9f8-496ba475dce9)s
+> - Completion Screenshot	![image](https://github.com/user-attachments/assets/91b324b7-0578-4c7d-b9f8-496ba475dce9)
+
+
+***
+#### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
+![Screenshot 2024-10-23 184833](https://github.com/user-attachments/assets/59622844-38b0-403b-b0a7-9c38a1d52e83)
+
 
 ***
 
-#### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+#### #3 Provide a basic example of using Google Colab by following the given steps
+> https://colab.research.google.com/drive/1gyGcrQyw_XFOEvbg4AGeeeGU8Nr0f7v5?usp=sharing
 
 ***
 
-#### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
-
-***
-
-#### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
-
-***
-
-#### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
-
-***
-
-#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
+#### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - For example:
 - Amazon Prime (Hosted on AWS)
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
-
-> Add your answer here!![twitch-logo-png-from-pngfre-17-1536x928](https://github.com/user-attachments/assets/50f0a48f-8036-45ff-9783-ffbf0583b048)
-AWS CLOUD PLATFORM
-
-
-***
-
-#### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+    
+- LinkedIn (Hosted on Microsoft Azure)
+  - Logo:
+  - 
+    ![linkedin logo](https://github.com/user-attachments/assets/994049cc-f47b-4fe5-bab8-3fe52503e91a)
+  - Details: It's the most popular site to check for internships and job oppurtunities and hiring from major companies from across the world.
 
 ***
 
-#### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
 
-***
