@@ -44,16 +44,17 @@
 
 #### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
-    
-- LinkedIn (Hosted on Microsoft Azure)
-  - Logo:
-  - 
-    ![linkedin logo](https://github.com/user-attachments/assets/994049cc-f47b-4fe5-bab8-3fe52503e91a)
-  - Details: It's the most popular site to check for internships and job oppurtunities and hiring from major companies from across the world.
+![580b57fcd9996e24bc43c540](https://github.com/user-attachments/assets/62b542a1-6d47-4425-a151-94502611d5d6)
+
+Twitch primarily uses Amazon Web Services (AWS) for its cloud infrastructure. AWS provides the scalable computing power, storage, and various services needed to support live streaming, data analytics, and user interactions on the platform.
+
+#### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
+> https://github.com/varuneshbit/22AM0XE-Assignments/edit/7376221CS345/varunesh-d/Day%231/Day%231-Assignments.md
 
 ***
 
+#### #6 Create a LinkedIn account with personal mail ID
+> ![image](https://github.com/user-attachments/assets/011d9d38-1463-45b1-939f-bb22c9d053cf)
 
+
+***
