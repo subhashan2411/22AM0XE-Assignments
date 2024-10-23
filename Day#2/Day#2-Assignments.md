@@ -72,8 +72,7 @@ In "Phippy Goes to the Zoo," Phippy is excited for a day of adventure. At the zo
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
-
+> https://github.com/SanthoshNC/22AM0XE-Assignments/pull/32
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
