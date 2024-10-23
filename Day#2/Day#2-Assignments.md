@@ -64,7 +64,10 @@ In "Phippy Goes to the Zoo," Phippy is excited for a day of adventure. At the zo
 ***
 
 #### #6 [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> Add your answer here!![Screenshot 2024-10-21 160841](https://github.com/user-attachments/assets/84201132-27aa-4947-a239-79c8fbb6f8a3)
+> ![Screenshot 2024-10-21 155733](https://github.com/user-attachments/assets/caef3eaa-07b9-4a88-b5a8-41de86a5ff47)
+
+
 
 ***
 
