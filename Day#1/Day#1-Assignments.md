@@ -49,7 +49,7 @@
 Twitch primarily uses Amazon Web Services (AWS) for its cloud infrastructure. AWS provides the scalable computing power, storage, and various services needed to support live streaming, data analytics, and user interactions on the platform.
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> https://github.com/varuneshbit/22AM0XE-Assignments/edit/7376221CS345/varunesh-d/Day%231/Day%231-Assignments.md
+> https://github.com/subhashan2411/22AM0XE-Assignments/tree/7376221CS320/Subhash
 
 ***
 
