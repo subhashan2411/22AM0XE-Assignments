@@ -77,7 +77,7 @@ In "Phippy Goes to the Zoo," Phippy is excited for a day of adventure. At the zo
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> https://github.com/subhashan2411/22AM0XE-Assignments/wiki
 
 ***
 
