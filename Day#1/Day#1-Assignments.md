@@ -54,7 +54,8 @@ Twitch primarily uses Amazon Web Services (AWS) for its cloud infrastructure. AW
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> ![image](https://github.com/user-attachments/assets/011d9d38-1463-45b1-939f-bb22c9d053cf)
+> ![image](https://github.com/user-attachments/assets/624b7124-8799-4a9f-97af-d6a19e63aca5)
+
 
 
 ***
